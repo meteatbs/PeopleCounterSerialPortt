@@ -1,0 +1,92 @@
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\bin\Debug\CP_Serial_Port_Terminal.exe.config
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\bin\Debug\CP_Serial_Port_Terminal.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\bin\Debug\CP_Serial_Port_Terminal.pdb
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.cache
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\CP_Serial_Port_Terminal.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\CP_Serial_Port_Terminal.pdb
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojAssemblyReference.cache
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.cache
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.0\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojAssemblyReference.cache
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.cache
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.2\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojAssemblyReference.cache
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.cache
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.4\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojAssemblyReference.cache
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.cache
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\catur\Desktop\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojAssemblyReference.cache
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.cache
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\CP_Serial_Port_Terminal V1.0.5\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojResolveAssemblyReference.cache
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\metea\Downloads\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.Cache
+C:\Users\metea\Desktop\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\metea\Desktop\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Desktop\CP_Serial_Port_Terminal V1.0.6\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojResolveAssemblyReference.cache
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\metea\Desktop\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.Cache
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojResolveAssemblyReference.cache
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\metea\Desktop\New folder\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.Cache
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe.config
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.exe
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\bin\Debug\CP_Serial_Port_Terminal.pdb
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csprojResolveAssemblyReference.cache
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Form1.resources
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.Properties.Resources.resources
+C:\Users\metea\Desktop\New folder (2)\PeopleCounterSerialPort\Serial_Port_Terminal\CP_Serial_Port_Terminal\obj\Debug\CP_Serial_Port_Terminal.csproj.GenerateResource.Cache
