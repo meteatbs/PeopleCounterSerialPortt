@@ -9,6 +9,7 @@ Terminal'i Windows 10 ve Visual Studio 2015 içinde yazdım.
 ## Eltima
 Serial port'um olmadığı için test amaçlı Eltima virtual port kullandım.<br/>
 Eltima virtual com port aşağıdaki siteden indirilebilir:<br/>
+https://www.eltima.com/products/vspdxp/
 
 ![Eltima](/images/Eltima.PNG)
 
